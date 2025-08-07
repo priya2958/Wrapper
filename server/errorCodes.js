@@ -1,0 +1,9 @@
+// server/errorCodes.js
+module.exports = {
+  UNKNOWN_ERROR: "ERR_UNKNOWN",
+  VALIDATION_ERROR: "ERR_VALIDATION",
+  NOT_FOUND: "ERR_NOT_FOUND",
+  UNAUTHORIZED: "ERR_UNAUTHORIZED",
+  FORBIDDEN: "ERR_FORBIDDEN",
+  // Add more as needed
+};
