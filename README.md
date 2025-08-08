@@ -20,6 +20,6 @@ Frontend (React):
 
 Create a common API utility to parse and handle the standardized response
 
-Display messages or data accordingly (e.g., via toasts or UI components)
+Display messages or data accordingly (e.g.,via  UI components)
 
 Ensure uniform error and success feedback to the user
